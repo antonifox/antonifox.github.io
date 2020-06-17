@@ -1,0 +1,51 @@
+.img-skeli{
+    height: 700px;
+}
+img{
+    height: 600px;
+    width: 1000px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.park{
+    width: 900px;
+}
+.pisanka{
+    width: 900px;
+}
+.vedmedi{
+    width: 1000px;
+}
+.oleni{
+    width: 1000px;
+}
+.vodopad{
+   width:1000px ; 
+}
+.gora{
+    width: 1000px;
+}
+nav{
+    background-color: #aedaf6f5;
+}
+.container{
+    background-color:#ccebfff1 ;
+    font-family: 'Indie Flower', cursive;
+}
+.navbar-brand{
+    font-family: 'Piedra', cursive;
+}
+.nav-item{
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background-color: #d9effa;
+}
+.col-md{
+text-align: center;
+}
+.carousel-inner .carousel-item{
+    padding-left: 30px;
+    padding-right: 30px;
+}
